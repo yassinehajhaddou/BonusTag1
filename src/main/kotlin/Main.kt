@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
     // Druckt eine leere Zeile aus
     println()
 
-    // Liest das Alter ein. Zudem ist dieses Symbol " $ " ein Adressierer, um die Variable "alter" Zuortbar zu machen.
+    // Dieses Symbol " $ " ein Adressierer, um die Variable "alter" Zuortbar zu machen.
     println("Wie alt bist du? (Bestätitige mithilfe von Enter)")
     var alter = readln()    // Diese Zeile liest das Alter ein
     println("Wow! Bereits $alter Jahre?!")
